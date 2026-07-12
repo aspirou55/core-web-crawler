@@ -3,7 +3,7 @@
 A generic single-page crawler: give it any URL and it returns the page's HTML
 metadata, a page-type classification, and a ranked list of relevant topics.
 
-**🌍 Live demo:** [edabpk62tn.us-east-1.awsapprunner.com/docs](https://edabpk62tn.us-east-1.awsapprunner.com/docs)
+**Live demo:** [edabpk62tn.us-east-1.awsapprunner.com/docs](https://edabpk62tn.us-east-1.awsapprunner.com/docs)
 — deployed on AWS App Runner (Docker image on ECR). Try
 [`/crawl?url=...`](https://edabpk62tn.us-east-1.awsapprunner.com/crawl?url=https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai)
 directly, or use the interactive Swagger UI. *(Demo deployment — may be taken
