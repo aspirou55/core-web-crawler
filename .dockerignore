@@ -1,0 +1,9 @@
+# Excluded from the Docker build context: the image should contain only
+# what the running service needs.
+__pycache__/
+*.pyc
+tests/
+.git/
+README.md
+.dockerignore
+Dockerfile
