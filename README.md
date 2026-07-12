@@ -138,7 +138,7 @@ verification", Cloudflare "Just a moment...") are likewise classified
 - **[docs/Part2_Design.pdf](docs/Part2_Design.pdf)** — operationalizing collection of
   billions of URLs/month: architecture, storage + unified schema, SLOs/SLAs,
   monitoring, cost model, and the measured bot-wall problem.
-- **[docs/POC_PLAN.md](docs/POC_PLAN.md)** — engineering path to proof of
+- **[docs/Part3_POC.pdf](docs/Part3_POC.pdf)** — engineering path to proof of
   concept: 6-week schedule, blocker analysis with estimates, PoC evaluation
   criteria, and the staged release plan to GA.
 
