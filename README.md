@@ -135,7 +135,7 @@ verification", Cloudflare "Just a moment...") are likewise classified
 
 ## Scaling design (Parts 2 & 3)
 
-- **[docs/DESIGN.md](docs/DESIGN.md)** — operationalizing collection of
+- **[docs/Part2_Design.pdf](docs/Part2_Design.pdf)** — operationalizing collection of
   billions of URLs/month: architecture, storage + unified schema, SLOs/SLAs,
   monitoring, cost model, and the measured bot-wall problem.
 - **[docs/POC_PLAN.md](docs/POC_PLAN.md)** — engineering path to proof of
