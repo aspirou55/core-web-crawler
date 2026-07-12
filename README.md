@@ -133,6 +133,15 @@ verification", Cloudflare "Just a moment...") are likewise classified
   renders client-side won't appear in body text (metadata tags usually still do).
 - English-oriented stopword list; other languages degrade to frequency-only ranking.
 
+## Scaling design (Parts 2 & 3)
+
+- **[docs/DESIGN.md](docs/DESIGN.md)** — operationalizing collection of
+  billions of URLs/month: architecture, storage + unified schema, SLOs/SLAs,
+  monitoring, cost model, and the measured bot-wall problem.
+- **[docs/POC_PLAN.md](docs/POC_PLAN.md)** — engineering path to proof of
+  concept: 6-week schedule, blocker analysis with estimates, PoC evaluation
+  criteria, and the staged release plan to GA.
+
 ## Tests
 
 ```bash
