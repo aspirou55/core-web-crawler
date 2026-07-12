@@ -1,5 +1,7 @@
 # Core Web Crawler
 
+AI Usage Statement: Claude Code (Fable 5 and Opus 4.8) were used to plan and write the .py functions within crawler, as well as create this ReadMe file and Documentation, and the Dockerfile.
+
 A generic single-page crawler: give it any URL and it returns the page's HTML
 metadata, a page-type classification, and a ranked list of relevant topics.
 
